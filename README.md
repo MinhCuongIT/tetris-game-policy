@@ -1,1 +1,1 @@
-# beauty-wallpaper-policy.github.io
+# tetris-game-policy.github.io
